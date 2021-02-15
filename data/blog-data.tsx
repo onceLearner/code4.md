@@ -18,7 +18,7 @@ export const blogData = [
         subtitle: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tincidunt tincidunt fames risus dapibus pulvinar feugiat aliquam.",
         date: "3 iunie 2020",
         image: ImageStatic,
-        content: `<h1> this is will be comming from a CMS </h1>`
+        content: `<h1> this is will be coming from a CMS </h1>`
     },
 
     {
